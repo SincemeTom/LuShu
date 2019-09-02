@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" adaptationTest="FitSize">
+  <displayList>
+    <component id="n0_imbe" name="btnLogin" src="imbe1" fileName="CommonBtn.xml" pkg="vb0cj5z5" xy="504,276" size="277,197">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="登录游戏"/>
+    </component>
+  </displayList>
+</component>

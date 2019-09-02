@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vb0cj5z5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="imbe1" name="CommonBtn.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Common"/>
+</packageDescription>

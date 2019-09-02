@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vhp4axu3" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="imbe1" name="Main.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Login"/>
+</packageDescription>
